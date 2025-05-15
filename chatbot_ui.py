@@ -12,6 +12,7 @@ import os
 model_service = os.getenv("MODEL_ENDPOINT",
                           "http://localhost:8001")
 model_service = f"{model_service}/v1"
+print(f"{model_service} Model Service")
 model_service_bearer = os.getenv("MODEL_ENDPOINT_BEARER")
 request_kwargs = {}
 if model_service_bearer is not None:
