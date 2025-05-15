@@ -16,3 +16,4 @@ Before you begin creating an application with this `devfile` code sample, it's h
 * For more information about the Chatbot AI Sample, see [redhat-ai-dev/ai-lab-samples repository](https://github.com/redhat-ai-dev/ai-lab-samples) or [Chatbot application document](https://github.com/redhat-ai-dev/ai-lab-template/blob/main/templates/chatbot/docs/application.md).
 * For more information about devfiles, see [Devfile.io](https://devfile.io/).
 * For more information about Containerfiles, see [Containerfile reference](https://github.com/containers/common/blob/main/docs/Containerfile.5.md).
+gghfhj
